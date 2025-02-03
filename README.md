@@ -25,7 +25,7 @@ Contains detailed information about Key factors such as marital status, educatio
 
 - **Data source:** Internet
 
-- **DATASET LINK** : [bank_data_Analysis](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+- **DATASET LINK** : [bank_data_Analysis](https://github.com/bagdenatasha2001/Bank_Data_Analysis/blob/main/bank.csv)
 
 ## Key Insights :  
 - A small portion of married individuals is unemployed, which can be a potential focus group for financial products.  
